@@ -1,0 +1,28 @@
+name: East Cape Homes
+favicon: null
+layout_spectrum: 0.5902348095551133
+typography_spectrum: 0.386313060997054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.14805423584766686
+  lightness: 0.25673976726830006
+  saturation: 0.2525974039454013
+  rhythmicContrast: 0.7216441303025931
+purpose: []
