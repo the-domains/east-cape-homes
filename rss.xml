@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Homes and land on the East Cape of Baja, from Cabo Pulmo to Vinorama]]></title>
         <description><![CDATA[Homes and land on the East Cape of Baja, from Cabo Pulmo to Vinorama]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/east-cape-homes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 22:19:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 19:35:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/east-cape-homes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aacad73-9903-4607-86ed-47893aab50f8.jpg">]]></description>
+            <link>https://thegrid.ai/east-cape-homes/casa-pescador-best-retreat-on-the-east-cape-pceastcapehom/index.html</link>
+            <guid isPermaLink="false">3e3b1a02-63d6-4354-8703-be548ab26dfe</guid>
+            <pubDate>Sat, 07 May 2016 19:35:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Cabo Pulmo</p>]]></description>
-            <link>undefined4fce7fb5-0f38-4fe6-8ffb-4328f3fdf426/index.html</link>
+            <link>https://thegrid.ai/east-cape-homes/4fce7fb5-0f38-4fe6-8ffb-4328f3fdf426/index.html</link>
             <guid isPermaLink="false">4fce7fb5-0f38-4fe6-8ffb-4328f3fdf426</guid>
             <pubDate>Sat, 06 Feb 2016 22:18:59 GMT</pubDate>
         </item>
